@@ -1,0 +1,1 @@
+export const ImageName = require('./logo_google.png'); 
